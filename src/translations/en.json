@@ -17,5 +17,14 @@
         "p1": "I am a passionate software developer with 4 years of experience building modern web applications and data-driven solutions.",
         "p2": "With 10 years of background in business and finance, I bring a unique perspective to software development.",
         "p3": "Currently based in Rosenheim, Germany, I work with cutting-edge technologies."
+    },
+    "skills": {
+        "title": "Skills & Technologies",
+        "programming": "Programming Languages",
+        "webFrameworks": "Web Frameworks & Libraries",
+        "webTech": "Web Technologies",
+        "devops": "DevOps Tools",
+        "cloud": "Cloud Platforms",
+        "versionControl": "Version Control & Project Management"
     }
 }
