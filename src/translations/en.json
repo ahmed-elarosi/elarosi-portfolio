@@ -32,5 +32,11 @@
         "webDev": "Web Development",
         "dataAnalytics": "Data Analytics",
         "viewProject": "View Project"
+    },
+    "contact": {
+        "title": "Get In Touch",
+        "subtitle": "Feel free to reach out for collaborations",
+        "email": "ahmed_elarosi@proton.me",
+        "location": "Rosenheim, Germany"
     }
 }
