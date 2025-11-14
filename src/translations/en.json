@@ -38,5 +38,9 @@
         "subtitle": "Feel free to reach out for collaborations",
         "email": "ahmed_elarosi@proton.me",
         "location": "Rosenheim, Germany"
+    },
+    "footer": {
+        "rights": "All rights reserved.",
+        "built": "Built with React & TailwindCSS"
     }
 }
