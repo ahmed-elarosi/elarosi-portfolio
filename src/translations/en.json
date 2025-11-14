@@ -11,5 +11,11 @@
         "intro": "Crafting efficient solutions with 3 years in software development and 10 years in business analytics",
         "downloadCV": "Download CV",
         "contactMe": "Contact Me"
+    },
+    "about": {
+        "title": "About Me",
+        "p1": "I am a passionate software developer with 4 years of experience building modern web applications and data-driven solutions.",
+        "p2": "With 10 years of background in business and finance, I bring a unique perspective to software development.",
+        "p3": "Currently based in Rosenheim, Germany, I work with cutting-edge technologies."
     }
 }
