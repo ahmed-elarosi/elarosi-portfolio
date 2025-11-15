@@ -1,13 +1,13 @@
 import { useState } from "react";
 import myLogo from "./assets/black.svg";
-
+import { ThemeProvider } from "./context/ThemeContext";
 import "./App.css";
 
 function App() {
     const [count, setCount] = useState(0);
 
     return (
-        <>
+        <ThemeProvider>
             <div className="header">
                 <a href="/home" target="_blank">
                     <img src={myLogo} className="logo react" alt="My Logo" />
@@ -22,7 +22,7 @@ function App() {
             <div>
                 <button className="result">{count}</button>
             </div>
-        </>
+        </ThemeProvider>
     );
 }
 
