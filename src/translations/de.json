@@ -32,5 +32,11 @@
         "webDev": "Webentwicklung",
         "dataAnalytics": "Datenanalyse",
         "viewProject": "Projekt ansehen"
+    },
+    "contact": {
+        "title": "Kontakt aufnehmen",
+        "subtitle": "Kontaktieren Sie mich gerne für Zusammenarbeit",
+        "email": "ahmed_elarosi@proton.me",
+        "location": "Rosenheim, Deutschland"
     }
 }
