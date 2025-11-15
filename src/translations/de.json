@@ -11,5 +11,11 @@
         "intro": "Effiziente Lösungen mit 3 Jahren Softwareentwicklung und 10 Jahren Business Analytics",
         "downloadCV": "Lebenslauf herunterladen",
         "contactMe": "Kontaktieren"
+    },
+    "about": {
+        "title": "Über mich",
+        "p1": "Ich bin ein leidenschaftlicher Softwareentwickler mit 3 Jahren Erfahrung.",
+        "p2": "Mit 10 Jahren Hintergrund in Business und Finanzen bringe ich eine einzigartige Perspektive.",
+        "p3": "Derzeit bin ich in Rosenheim, Deutschland ansässig."
     }
 }
