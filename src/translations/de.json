@@ -26,5 +26,11 @@
         "devops": "DevOps-Tools",
         "cloud": "Cloud-Plattformen",
         "versionControl": "Versionskontrolle & Projektmanagement"
+    },
+    "projects": {
+        "title": "Projekte",
+        "webDev": "Webentwicklung",
+        "dataAnalytics": "Datenanalyse",
+        "viewProject": "Projekt ansehen"
     }
 }
