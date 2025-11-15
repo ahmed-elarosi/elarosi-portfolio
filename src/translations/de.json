@@ -17,5 +17,14 @@
         "p1": "Ich bin ein leidenschaftlicher Softwareentwickler mit 3 Jahren Erfahrung.",
         "p2": "Mit 10 Jahren Hintergrund in Business und Finanzen bringe ich eine einzigartige Perspektive.",
         "p3": "Derzeit bin ich in Rosenheim, Deutschland ansässig."
+    },
+    "skills": {
+        "title": "Fähigkeiten & Technologien",
+        "programming": "Programmiersprachen",
+        "webFrameworks": "Web Frameworks & Bibliotheken",
+        "webTech": "Web-Technologien",
+        "devops": "DevOps-Tools",
+        "cloud": "Cloud-Plattformen",
+        "versionControl": "Versionskontrolle & Projektmanagement"
     }
 }
