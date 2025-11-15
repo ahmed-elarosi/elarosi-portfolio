@@ -5,5 +5,11 @@
         "skills": "Fähigkeiten",
         "projects": "Projekte",
         "contact": "Kontakt"
+    },
+    "hero": {
+        "title": "Software- & Webentwickler | Datenanalyst",
+        "intro": "Effiziente Lösungen mit 3 Jahren Softwareentwicklung und 10 Jahren Business Analytics",
+        "downloadCV": "Lebenslauf herunterladen",
+        "contactMe": "Kontaktieren"
     }
 }
