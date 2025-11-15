@@ -38,5 +38,9 @@
         "subtitle": "Kontaktieren Sie mich gerne für Zusammenarbeit",
         "email": "ahmed_elarosi@proton.me",
         "location": "Rosenheim, Deutschland"
+    },
+    "footer": {
+        "rights": "Alle Rechte vorbehalten.",
+        "built": "Erstellt mit React & TailwindCSS"
     }
 }
