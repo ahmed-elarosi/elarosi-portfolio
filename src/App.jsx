@@ -5,8 +5,10 @@ import "./App.css";
 import Header from "./components/Header";
 
 function App() {
+    const [count, setCount] = useState(0);
     return (
         <ThemeProvider>
+            <Header />
             <div className="header">
                 <a href="/home" target="_blank">
                     <img src={myLogo} className="logo react" alt="My Logo" />
