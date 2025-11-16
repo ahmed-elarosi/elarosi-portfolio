@@ -11,3 +11,8 @@ export const useLanguage = () => {
     }
     return context;
 };
+
+const translations = {
+    en: enTranslations,
+    de: deTranslations,
+};
