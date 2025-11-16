@@ -2,10 +2,10 @@ import React, { createContext, useContext, useState, useEffect, Children } from 
 import enTranslations from "../translations/en.json";
 import deTranslations from "../translations/de.json";
 
-const languageContext = createContext();
+const LanguageContext = createContext();
 
 export const useLanguage = () => {
-    const context = useContext(languageContext);
+    const context = useContext(LanguageContext);
     if (!context) {
         throw new Error("useLanguage must be used within LanguageProvider");
     }
@@ -25,5 +25,17 @@ export const LanguageProvider = ({ children }) => {
 
     useEffect(() => {
         localStorage.setItem("language", lang);
-    });
+    }, [lang]);
+
+    const toggleLanguage = () => {
+        setLang(lang === "en" ? "de" : "en");
+    };
+
+    const t = translations[lang];
+
+    return (
+        <LanguageContext.Provider value={{ lang, toggleLanguage, t }}>
+            {children}
+        </LanguageContext.Provider>
+    );
 };
