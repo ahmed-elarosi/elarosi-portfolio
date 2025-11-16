@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useState, useEffect } from "react";
+import React, { createContext, useContext, useState, useEffect, Children } from "react";
 import enTranslations from "../translations/en.json";
 import deTranslations from "../translations/de.json";
 
@@ -15,4 +15,15 @@ export const useLanguage = () => {
 const translations = {
     en: enTranslations,
     de: deTranslations,
+};
+
+export const LanguageProvider = ({ children }) => {
+    const [lang, setLang] = useState(() => {
+        const saved = localStorage.getItem("language");
+        return saved || "en";
+    });
+
+    useEffect(() => {
+        localStorage.setItem("language", lang);
+    });
 };
