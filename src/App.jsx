@@ -1,4 +1,3 @@
-import myLogo from "./assets/black.svg";
 import { ThemeProvider } from "./context/ThemeContext";
 import { LanguageProvider } from "./context/LanguageContext";
 import "./App.css";

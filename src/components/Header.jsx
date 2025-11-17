@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Moon, Sun, Globe, Menu, X } from "lucide-react";
 import { useTheme } from "../context/ThemeContext";
 import { useLanguage } from "../context/LanguageContext";
+import myLogo from "../assets/black.svg";
 
 const Header = () => {
     const { isDark, toggleTheme } = useTheme();
@@ -24,13 +25,16 @@ const Header = () => {
         >
             <nav className="container mx-auto px-6 py-4">
                 <div className="flex items-center justify-between">
-                    <h1
+                    <a href="/" target="_blank">
+                        <img src={myLogo} className="logo react" alt="My Logo" />
+                    </a>
+                    {/* <h1
                         className={`text-2xl font-bold bg-gradient-to-r ${
                             isDark ? "from-blue-400 to-purple-400" : "from-blue-600 to-purple-600"
                         } bg-clip-text text-transparent`}
                     >
                         Ahmed Elarosi
-                    </h1>
+                    </h1> */}
 
                     {/* Desktop Navigation */}
                     <div className="hidden md:flex items-center space-x-8">
