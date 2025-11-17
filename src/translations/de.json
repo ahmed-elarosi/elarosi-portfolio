@@ -1,42 +1,42 @@
 {
-    "nav": {
-        "home": "Startseite",
-        "about": "Über mich",
-        "skills": "Fähigkeiten",
-        "projects": "Projekte",
-        "contact": "Kontakt"
-    },
-    "hero": {
-        "title": "Software- & Webentwickler | Datenanalyst",
-        "intro": "Effiziente Lösungen mit 3 Jahren Softwareentwicklung und 10 Jahren Business Analytics",
-        "downloadCV": "Lebenslauf herunterladen",
-        "contactMe": "Kontaktieren"
-    },
-    "about": {
-        "title": "Über mich",
-        "p1": "Ich bin ein leidenschaftlicher Softwareentwickler mit 3 Jahren Erfahrung.",
-        "p2": "Mit 10 Jahren Hintergrund in Business und Finanzen bringe ich eine einzigartige Perspektive.",
-        "p3": "Derzeit bin ich in Rosenheim, Deutschland ansässig."
-    },
-    "skills": {
-        "title": "Fähigkeiten & Technologien",
-        "programming": "Programmiersprachen",
-        "webFrameworks": "Web Frameworks & Bibliotheken",
-        "webTech": "Web-Technologien",
-        "devops": "DevOps-Tools",
-        "cloud": "Cloud-Plattformen",
-        "versionControl": "Versionskontrolle & Projektmanagement"
-    },
-    "projects": {
-        "title": "Projekte",
-        "webDev": "Webentwicklung",
-        "dataAnalytics": "Datenanalyse",
-        "viewProject": "Projekt ansehen"
-    },
-    "contact": {
-        "title": "Kontakt aufnehmen",
-        "subtitle": "Kontaktieren Sie mich gerne für Zusammenarbeit",
-        "email": "ahmed_elarosi@proton.me",
-        "location": "Rosenheim, Deutschland"
-    }
+  "nav": {
+    "home": "Startseite",
+    "about": "Über mich",
+    "skills": "Fähigkeiten",
+    "projects": "Projekte",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Software- & Webentwickler | Datenanalyst",
+    "intro": "Effiziente Lösungen mit 3 Jahren Softwareentwicklung und 10 Jahren Business Analytics",
+    "downloadCV": "Lebenslauf herunterladen",
+    "contactMe": "Kontaktieren"
+  },
+  "about": {
+    "title": "Über mich",
+    "p1": "Ich bin ein leidenschaftlicher Softwareentwickler mit 3 Jahren Erfahrung.",
+    "p2": "Mit 10 Jahren Hintergrund in Business und Finanzen bringe ich eine einzigartige Perspektive.",
+    "p3": "Derzeit bin ich in Rosenheim, Deutschland ansässig."
+  },
+  "skills": {
+    "title": "Fähigkeiten & Technologien",
+    "programming": "Programmiersprachen",
+    "webFrameworks": "Web Frameworks & Bibliotheken",
+    "webTech": "Web-Technologien",
+    "devops": "DevOps-Tools",
+    "cloud": "Cloud-Plattformen",
+    "versionControl": "Versionskontrolle & Projektmanagement"
+  },
+  "projects": {
+    "title": "Projekte",
+    "webDev": "Webentwicklung",
+    "dataAnalytics": "Datenanalyse",
+    "viewProject": "Projekt ansehen"
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Kontaktieren Sie mich gerne für Zusammenarbeit",
+    "email": "ahmed_elarosi@proton.me",
+    "location": "Rosenheim, Deutschland"
+  }
 }

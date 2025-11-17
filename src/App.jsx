@@ -4,15 +4,15 @@ import "./App.css";
 import Header from "./components/Header";
 
 function App() {
-    return (
-        <ThemeProvider>
-            <LanguageProvider>
-                <div className="app">
-                    <Header />
-                </div>
-            </LanguageProvider>
-        </ThemeProvider>
-    );
+  return (
+    <ThemeProvider>
+      <LanguageProvider>
+        <div className="app">
+          <Header />
+        </div>
+      </LanguageProvider>
+    </ThemeProvider>
+  );
 }
 
 export default App;
