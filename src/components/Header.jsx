@@ -16,7 +16,7 @@ const Header = () => {
 
     return (
         <header
-            className={`fixed top-0 w-full z-50 ${
+            className={`fixed top-0 left-0 right-0 z-50 ${
                 isDark
                     ? "bg-gradient-to-r from-gray-900/95 via-purple-900/95 to-gray-900/95"
                     : "bg-gradient-to-r from-white/95 via-blue-50/95 to-white/95"
