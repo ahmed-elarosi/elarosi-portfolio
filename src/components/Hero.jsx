@@ -8,4 +8,7 @@ const Hero = () => {
     const { lang, t } = useLanguage();
 
     const downloadCv = () => {};
+    const cvUrl = lang === "en" ? "assets/CV_EN.pdf" : "/assets/CV_DE.pdf";
+
+    };
 };
