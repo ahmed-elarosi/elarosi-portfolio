@@ -1,5 +1,6 @@
 # 🚀 Ahmed Elarosi - Portfolio Website
 
+## 📘 Overview
 A modern, responsive, and bilingual portfolio website built with React and Tailwind CSS v4. Features dark/light mode, smooth animations, and internationalization support.
 
 <!-- ![Portfolio Preview](https://img.shields.io/badge/Status-Live-success?style=for-the-badge) -->
